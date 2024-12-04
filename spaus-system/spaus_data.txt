@@ -1,0 +1,6 @@
+App: Fitness Tracker Program
+2024-05-29|1.0.0|Added the feature to calculate burned calories after meals. [ Garry ]
+2024-05-30|1.0.1|Bug Fix|Fixed the bug where users cannot sync their fitness data with other devices despite having the same connected account. [ Mary ]
+2024-07-17|4.0.0|Add the feature to display nutritional facts about food items the user wants to know about for their dietary needs. [ Ib ]
+App: RPG Character Management Program
+2024-05-29|1.0.0|Added the feature to input the respective class/es of the user's character/s in the character menu. [ Garry ]
